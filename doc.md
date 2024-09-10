@@ -1,5 +1,3 @@
-Here’s an updated version of the documentation with a **Pricing** section:
-
 ---
 
 # WhatsApp Business API Documentation
